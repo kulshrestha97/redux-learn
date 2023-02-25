@@ -6,5 +6,5 @@ Understood the logic of:
 2. What are slices?
 3. What is a middleware?
 4. What are `useDispatch` and `useSelector` hooks offered by React-Redux?
-5. What is <Provider> pattern?
+5. What is `<Provider>` pattern?
 6. How Redux Store works?
